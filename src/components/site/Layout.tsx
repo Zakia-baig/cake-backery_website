@@ -108,7 +108,7 @@ export function Footer() {
       </div>
       <div className="border-t border-border">
         <div className="container mx-auto px-4 py-4 text-center text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Sweet Bites · Made with 💕 in Karachi
+          © {new Date().getFullYear()} Sweet Bites · Made with Zakia Baig in Karachi
         </div>
       </div>
     </footer>

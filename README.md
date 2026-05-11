@@ -275,7 +275,7 @@ The build outputs a Cloudflare Worker bundle that can also be deployed via `wran
 
 ## 📄 License
 
-© 2026 Sweet Bites · Made with 💕 in Karachi.
+© 2026 Sweet Bites · Made with Zakia Baig in Karachi.
 
 All rights reserved. This project is proprietary and intended solely for the Sweet Bites bakery brand.
 
